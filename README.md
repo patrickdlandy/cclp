@@ -1,2 +1,2 @@
 # cclp
-Coalition of Concerned Legal Professionals Website
+Test site for html, css, and tracking tools.
